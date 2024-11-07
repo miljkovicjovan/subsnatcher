@@ -1,6 +1,13 @@
 # Subsnatcher
 
-Frontend for subtitle downloading and snatching command-line tool called [iSubRip](https://github.com/MichaelYochpaz/iSubRip).
+Frontend for downloading and scraping subtitles from other services.</br>
+Subsnacher uses [iSubRip](https://github.com/MichaelYochpaz/iSubRip).
+
+<div align="center">
+  <a href="https://github.com/miljkovicjovan/subsnatcher"><img alt="Repo Stars" src="https://img.shields.io/github/stars/miljkovicjovan/subsnatcher?style=flat&color=gold"></a>
+  <a href="https://github.com/miljkovicjovan/subsnatcher/issues"><img alt="Issues" src="https://img.shields.io/github/issues/miljkovicjovan/subsnatcher?color=red"></a>
+  <a href="https://github.com/miljkovicjovan/subsnatcher/blob/main/LICENSE"><img alt="License" src="https://img.shields.io/github/license/miljkovicjovan/subsnatcher"></a>
+</div>
 
 ## What is Subsnatcher?
 
