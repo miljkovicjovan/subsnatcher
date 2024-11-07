@@ -1,9 +1,3 @@
-License Information for SubSnatcher
-
-iSubRip License (Original)
-
-The following license applies to the iSubRip library that SubSnatcher uses. 
-
 MIT License
 
 Copyright (c) 2022 Michael Yochpaz
@@ -28,10 +22,6 @@ SOFTWARE.
 
 ---
 
-SubSnatcher License (MIT)
-
-The following MIT License applies to the SubSnatcher code I developed:
-
 MIT License
 
 Copyright (c) 2024 Miljković Jovan
@@ -53,9 +43,3 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-
----
-
-Important Notes:
-- iSubRip is used under its original license and is included with SubSnatcher.
-- SubSnatcher itself is licensed under the MIT License. If you modify or distribute SubSnatcher, please follow the terms of the MIT License.
